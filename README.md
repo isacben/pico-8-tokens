@@ -25,4 +25,4 @@ Tokens so far: 3
 
 ### Movement
 
-- [Player horizontal movement with friction](movement/plyer-horizontal-movement-friction.md)
+- [Player horizontal movement with friction](movement/player-horizontal-movement-friction.md)
