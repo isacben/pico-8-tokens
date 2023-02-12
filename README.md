@@ -17,7 +17,7 @@ Tokens so far: 3
 
 ### Animation
 
-- [Animate a sprite (for example, a character)](animate-sprite.md)
+- [Animate a sprite (for example, a character)](animation/animate-sprite.md)
 
 ### General
 
@@ -25,4 +25,4 @@ Tokens so far: 3
 
 ### Movement
 
-- [Player horizontal movement with friction](plyer-horizontal-movement-friction.md)
+- [Player horizontal movement with friction](movement/plyer-horizontal-movement-friction.md)
